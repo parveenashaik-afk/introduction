@@ -1,3 +1,12 @@
 GitHub is a web-based platform that uses Git, a version control system, to help developers manage and track changes in their code.
 It allows multiple people to collaborate on a project, track revisions, and contribute to code from anywhere in the world.
 GitHub offers both free and paid plans, catering to individuals and large organizations alike.
+
+some more commands:
+git init -- initialization of the git repo in our device.
+git add . -- which helps to add all the code files into repository.
+git commit -m "message related to your latest commit" -- it is used to specify the version.
+git branch -M main -- this command helps to specify on which branch we are going to push the code. Basically a branch specifies which user is working and updating the code.
+git remote --  it helps to access a specific repository from anywhere
+git push -u origin main --
+git pull -- which helps you to get the existing code from repository into your local device
